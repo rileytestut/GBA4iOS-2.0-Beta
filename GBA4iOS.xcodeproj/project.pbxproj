@@ -462,6 +462,8 @@
 		BF60A16C18A61CB600B2E7D4 /* GBABetaTesterCreditsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBABetaTesterCreditsViewController.h; sourceTree = "<group>"; };
 		BF60A16D18A61CB600B2E7D4 /* GBABetaTesterCreditsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBABetaTesterCreditsViewController.m; sourceTree = "<group>"; };
 		BF60A17018A61D8700B2E7D4 /* betaTesters.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = betaTesters.plist; sourceTree = "<group>"; };
+		BF63401D18AA0B2F0011E54A /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		BF63401E18AA0B2F0011E54A /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		BF6ED576185102D40014B6A8 /* GBASyncInitialSyncOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBASyncInitialSyncOperation.h; sourceTree = "<group>"; };
 		BF6ED577185102D40014B6A8 /* GBASyncInitialSyncOperation.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GBASyncInitialSyncOperation.mm; sourceTree = "<group>"; };
 		BF6ED57A1851100A0014B6A8 /* GBASyncManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBASyncManager.h; sourceTree = "<group>"; };
@@ -1655,6 +1657,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = CC2D56F31798F2EC00C616EB;
 			productRefGroup = CC2D56FD1798F2EC00C616EB /* Products */;
@@ -2123,6 +2126,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				CC2D57091798F2EC00C616EB /* en */,
+				BF63401E18AA0B2F0011E54A /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -2131,6 +2135,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				CC2D57121798F2EC00C616EB /* Base */,
+				BF63401D18AA0B2F0011E54A /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

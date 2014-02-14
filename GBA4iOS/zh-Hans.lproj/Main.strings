@@ -1,0 +1,225 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Save"; ObjectID = "6T1-6f-2Xr"; */
+"6T1-6f-2Xr.title" = "保存";
+
+/* Class = "IBUILabel"; text = "GBA.emu"; ObjectID = "6nt-U1-98m"; */
+"6nt-U1-98m.text" = "GBA.emu";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Controller Skins"; ObjectID = "6xa-Dc-Gfk"; */
+"6xa-Dc-Gfk.headerTitle" = "控制器外观";
+
+/* Class = "IBUILabel"; text = "5.0 MB"; ObjectID = "7bk-MD-Hx0"; */
+"7bk-MD-Hx0.text" = "5.0 MB";
+
+/* Class = "IBUITableViewSection"; footerTitle = "GBA4iOS 2.0"; ObjectID = "8wU-vz-JV8"; */
+"8wU-vz-JV8.footerTitle" = "GBA4iOS 2.0";
+
+/* Class = "IBUILabel"; text = "Download Update"; ObjectID = "BMU-EP-k3X"; */
+"BMU-EP-k3X.text" = "下载更新";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Game music will only play if no other app is playing audio. Regardless of this setting, you can always start music manually from Control Center."; ObjectID = "BQC-TG-YXN"; */
+"BQC-TG-YXN.footerTitle" = "只有当没有其他程序进行播放时才可播放游戏声音。 但无论如何，您可随时从控制中心随时控制音乐。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Audio"; ObjectID = "BQC-TG-YXN"; */
+"BQC-TG-YXN.headerTitle" = "声音";
+
+/* Class = "IBUILabel"; text = "50%"; ObjectID = "DCB-nd-WvQ"; */
+"DCB-nd-WvQ.text" = "50%";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Check For Updates"; ObjectID = "HXq-6T-tyt"; */
+"HXq-6T-tyt.headerTitle" = "检查更新";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Higher numbers yield better performance, but at the cost of lower frame rates."; ObjectID = "HXr-np-Neh"; */
+"HXr-np-Neh.footerTitle" = "数字越大，性能更好，但以更低的帧速率为代价。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Frame Skip"; ObjectID = "HXr-np-Neh"; */
+"HXr-np-Neh.headerTitle" = "跳帧";
+
+/* Class = "IBUINavigationItem"; title = "New Cheat Code"; ObjectID = "Hys-sS-FQH"; */
+"Hys-sS-FQH.title" = "新金手指";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Name"; ObjectID = "IRp-bi-6xE"; */
+"IRp-bi-6xE.headerTitle" = "名称";
+
+/* Class = "IBUILabel"; text = "Zodttd"; ObjectID = "JKF-YX-hl9"; */
+"JKF-YX-hl9.text" = "Zodttd";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "NmM-8t-Spy"; */
+"NmM-8t-Spy.title" = "取消";
+
+/* Class = "IBUILabel"; text = "Game Boy Advance"; ObjectID = "OHm-pT-NFJ"; */
+"OHm-pT-NFJ.text" = "Game Boy Advance";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Description"; ObjectID = "ObR-JF-dpC"; */
+"ObR-JF-dpC.headerTitle" = "描述";
+
+/* Class = "IBUINavigationItem"; title = "Configure Buttons"; ObjectID = "QGa-sU-qVs"; */
+"QGa-sU-qVs.title" = "配置按键";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Determines how transparent the controller is, if supported by the skin."; ObjectID = "SNw-c2-3jm"; */
+"SNw-c2-3jm.footerTitle" = "改变控制透明度（需要皮肤支持）";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Controller Opacity"; ObjectID = "SNw-c2-3jm"; */
+"SNw-c2-3jm.headerTitle" = "控制器透明度";
+
+/* Class = "IBUILabel"; text = "Software Update"; ObjectID = "Sjb-K1-mRU"; */
+"Sjb-K1-mRU.text" = "软件更新";
+
+/* Class = "IBUILabel"; text = "Tap a button to change what action it performs"; ObjectID = "TUx-2B-J2m"; */
+"TUx-2B-J2m.text" = "按任意键改变其作用";
+
+/* Class = "IBUITableViewSection"; footerTitle = "A save state will be created whenever another save state is loaded, you quit the game, or the app crashes. This is intended to be used as a backup and not your primary saving method."; ObjectID = "Ui4-u6-rdp"; */
+"Ui4-u6-rdp.footerTitle" = "当读取其他存档、退出游戏、程序崩溃时自动存档。这个方法主要用于备份，不应作为主要的存档方法。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Saving"; ObjectID = "Ui4-u6-rdp"; */
+"Ui4-u6-rdp.headerTitle" = "保存中...";
+
+/* Class = "IBUILabel"; text = "Robert Broglia"; ObjectID = "XmL-5Z-36f"; */
+"XmL-5Z-36f.text" = "Robert Broglia";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Syncing"; ObjectID = "Y91-iU-ZZA"; */
+"Y91-iU-ZZA.headerTitle" = "同步中...";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Tap a name to go to their Twitter profile. \n\nFor all the latest GBA4iOS updates, follow Riley Testut and Paul Thorsen."; ObjectID = "Yil-Be-Dpf"; */
+"Yil-Be-Dpf.footerTitle" = "单击姓名以进入Twitter档案。 \n\n 请关注Riley Testut和Paul Thorsen来获得最新的GBA4iOS。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Credits"; ObjectID = "Yil-Be-Dpf"; */
+"Yil-Be-Dpf.headerTitle" = "制作人员";
+
+/* Class = "IBUILabel"; text = "Tech Support"; ObjectID = "ZSt-Ue-ZUl"; */
+"ZSt-Ue-ZUl.text" = "技术支持";
+
+/* Class = "IBUILabel"; text = "Dropbox Sync"; ObjectID = "bQm-NJ-XIL"; */
+"bQm-NJ-XIL.text" = "Dropbox同步";
+
+/* Class = "IBUIViewController"; title = "External Controller"; ObjectID = "bqr-aX-GSp"; */
+"bqr-aX-GSp.title" = "外部控制器";
+
+/* Class = "IBUILabel"; text = "Developer"; ObjectID = "c59-FU-Kqa"; */
+"c59-FU-Kqa.text" = "开发者";
+
+/* Class = "IBUINavigationItem"; title = "Software Update"; ObjectID = "dSC-oI-Iej"; */
+"dSC-oI-Iej.title" = "软件更新";
+
+/* Class = "IBUILabel"; text = "Juan Fernández"; ObjectID = "dc9-F6-nUc"; */
+"dc9-F6-nUc.text" = "Juan Fernández";
+
+/* Class = "IBUILabel"; text = "GBA4iOS 2.1"; ObjectID = "eBc-Ut-ebM"; */
+"eBc-Ut-ebM.text" = "GBA4iOS 2.1";
+
+/* Class = "IBUILabel"; text = "Start Event"; ObjectID = "eIQ-hB-MjB"; */
+"eIQ-hB-MjB.text" = "开始事件";
+
+/* Class = "IBUITableViewController"; title = "Settings"; ObjectID = "fFF-zm-sH1"; */
+"fFF-zm-sH1.title" = "设置";
+
+/* Class = "IBUISegmentedControl"; fl2-uD-BuI.segmentTitles[0] = "Action Replay"; ObjectID = "fl2-uD-BuI"; */
+"fl2-uD-BuI.segmentTitles[0]" = "Action Replay";
+
+/* Class = "IBUISegmentedControl"; fl2-uD-BuI.segmentTitles[1] = "GameShark"; ObjectID = "fl2-uD-BuI"; */
+"fl2-uD-BuI.segmentTitles[1]" = "GameShark";
+
+/* Class = "IBUISegmentedControl"; fl2-uD-BuI.segmentTitles[2] = "Code Breaker"; ObjectID = "fl2-uD-BuI"; */
+"fl2-uD-BuI.segmentTitles[2]" = "Code Breaker";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Code will be formatted automatically as you type."; ObjectID = "iX4-B9-cGU"; */
+"iX4-B9-cGU.footerTitle" = "您输入的代码将被自动整理。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Code"; ObjectID = "iX4-B9-cGU"; */
+"iX4-B9-cGU.headerTitle" = "代码";
+
+/* Class = "IBUILabel"; text = "Beta Testers"; ObjectID = "jj8-wN-xi5"; */
+"jj8-wN-xi5.text" = "测试人员";
+
+/* Class = "IBUITableViewSection"; footerTitle = "The device will vibrate whenever you press a button on the controller. Make sure vibrate is ON in the Settings app for ring, silent, or both, depending on which mode you're in."; ObjectID = "k3M-IC-7Nd"; */
+"k3M-IC-7Nd.footerTitle" = "当您按下按钮时设备将振动。请确定系统声音中的震动已被开启。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Controller Vibration"; ObjectID = "k3M-IC-7Nd"; */
+"k3M-IC-7Nd.headerTitle" = "控制器振动";
+
+/* Class = "IBUILabel"; text = "Original Icon"; ObjectID = "kmR-d2-GDL"; */
+"kmR-d2-GDL.text" = "原始图标";
+
+/* Class = "IBUITextField"; placeholder = "Cheat Name"; ObjectID = "l8o-9P-x4c"; */
+"l8o-9P-x4c.placeholder" = "金手指名称";
+
+/* Class = "IBUILabel"; text = "Game Boy Color"; ObjectID = "mcv-Gs-kLe"; */
+"mcv-Gs-kLe.text" = "Game Boy Color";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "nvY-tQ-ZRC"; */
+"nvY-tQ-ZRC.title" = "设置";
+
+/* Class = "IBUILabel"; text = "Delete Event"; ObjectID = "oDn-sc-hVn"; */
+"oDn-sc-hVn.text" = "删除事件";
+
+/* Class = "IBUILabel"; text = "gpSPhone"; ObjectID = "oQI-aK-3wI"; */
+"oQI-aK-3wI.text" = "gpSPhone";
+
+/* Class = "IBUILabel"; text = "Graphic Designer"; ObjectID = "qY9-bp-cXh"; */
+"qY9-bp-cXh.text" = "图形设计师";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Code format is XXXXXXXX YYYYYYYY."; ObjectID = "rb8-cQ-kZU"; */
+"rb8-cQ-kZU.footerTitle" = "代码格式为XXXXXXXX YYYYYYYY.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Type"; ObjectID = "rb8-cQ-kZU"; */
+"rb8-cQ-kZU.headerTitle" = "类型";
+
+/* Class = "IBUILabel"; text = "Riley Testut"; ObjectID = "rdf-Gf-sBN"; */
+"rdf-Gf-sBN.text" = "Riley Testut";
+
+/* Class = "IBUILabel"; text = "Auto Save"; ObjectID = "ret-tW-Wta"; */
+"ret-tW-Wta.text" = "自动保存";
+
+/* Class = "IBUITableViewSection"; headerTitle = "External Controller"; ObjectID = "s3c-lR-3lq"; */
+"s3c-lR-3lq.headerTitle" = "外部控制器";
+
+/* Class = "IBUILabel"; text = "Configure Buttons"; ObjectID = "tNu-VX-c2N"; */
+"tNu-VX-c2N.text" = "配置按键";
+
+/* Class = "IBUILabel"; text = "Riley Testut"; ObjectID = "uC9-4O-Vzb"; */
+"uC9-4O-Vzb.text" = "Riley Testut";
+
+/* Class = "IBUILabel"; text = "Alyssa Surowiec"; ObjectID = "upY-mn-RKX"; */
+"upY-mn-RKX.text" = "Alyssa Surowiec";
+
+/* Class = "IBUISegmentedControl"; vw4-Ob-Njc.segmentTitles[0] = "ALL"; ObjectID = "vw4-Ob-Njc"; */
+"vw4-Ob-Njc.segmentTitles[0]" = "全部";
+
+/* Class = "IBUISegmentedControl"; vw4-Ob-Njc.segmentTitles[1] = "GBA"; ObjectID = "vw4-Ob-Njc"; */
+"vw4-Ob-Njc.segmentTitles[1]" = "GBA";
+
+/* Class = "IBUISegmentedControl"; vw4-Ob-Njc.segmentTitles[2] = "GBC"; ObjectID = "vw4-Ob-Njc"; */
+"vw4-Ob-Njc.segmentTitles[2]" = "GBC";
+
+/* Class = "IBUISegmentedControl"; wCX-6F-d72.segmentTitles[0] = "Auto"; ObjectID = "wCX-6F-d72"; */
+"wCX-6F-d72.segmentTitles[0]" = "自动";
+
+/* Class = "IBUISegmentedControl"; wCX-6F-d72.segmentTitles[1] = "0"; ObjectID = "wCX-6F-d72"; */
+"wCX-6F-d72.segmentTitles[1]" = "0";
+
+/* Class = "IBUISegmentedControl"; wCX-6F-d72.segmentTitles[2] = "1"; ObjectID = "wCX-6F-d72"; */
+"wCX-6F-d72.segmentTitles[2]" = "1";
+
+/* Class = "IBUISegmentedControl"; wCX-6F-d72.segmentTitles[3] = "2"; ObjectID = "wCX-6F-d72"; */
+"wCX-6F-d72.segmentTitles[3]" = "2";
+
+/* Class = "IBUISegmentedControl"; wCX-6F-d72.segmentTitles[4] = "3"; ObjectID = "wCX-6F-d72"; */
+"wCX-6F-d72.segmentTitles[4]" = "3";
+
+/* Class = "IBUISegmentedControl"; wCX-6F-d72.segmentTitles[5] = "4"; ObjectID = "wCX-6F-d72"; */
+"wCX-6F-d72.segmentTitles[5]" = "4";
+
+/* Class = "IBUILabel"; text = "Off"; ObjectID = "xfN-uz-80c"; */
+"xfN-uz-80c.text" = "关闭";
+
+/* Class = "IBUILabel"; text = "Prefer External Audio"; ObjectID = "yfw-hw-HXs"; */
+"yfw-hw-HXs.text" = "外部音频优先";
+
+/* Class = "IBUILabel"; text = "Paul Thorsen"; ObjectID = "yts-uQ-Fyu"; */
+"yts-uQ-Fyu.text" = "Paul Thorsen";
+
+/* Class = "IBUILabel"; text = "Vibrate On Button Press"; ObjectID = "yyX-GY-xjr"; */
+"yyX-GY-xjr.text" = "按下时振动";
+
+/* Class = "IBUITextView"; text = "This version of GBA4iOS includes:\n\n• Multiplayer support!"; ObjectID = "zdt-lk-gA2"; */
+"zdt-lk-gA2.text" = "此版本的GBA4iOS包含:\n\n• 多人游戏支持!";
