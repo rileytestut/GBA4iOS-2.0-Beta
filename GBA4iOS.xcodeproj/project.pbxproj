@@ -384,6 +384,7 @@
 		CCFA7237179D340400768D24 /* apple.mm in Sources */ = {isa = PBXBuildFile; fileRef = CCFA7171179D2EAB00768D24 /* apple.mm */; settings = {COMPILER_FLAGS = "-w"; }; };
 		CCFA7238179D340400768D24 /* ResourceFontUIKit.mm in Sources */ = {isa = PBXBuildFile; fileRef = CCFA7172179D2EAB00768D24 /* ResourceFontUIKit.mm */; settings = {COMPILER_FLAGS = "-w"; }; };
 		CCFA7239179D340400768D24 /* Quartz2dUIKit.mm in Sources */ = {isa = PBXBuildFile; fileRef = CCFA7173179D2EAB00768D24 /* Quartz2dUIKit.mm */; settings = {COMPILER_FLAGS = "-w"; }; };
+		DFA9479818AF990C000BBB9F /* Others.strings in Resources */ = {isa = PBXBuildFile; fileRef = DFA9479A18AF990C000BBB9F /* Others.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -765,6 +766,8 @@
 		CCFA71F7179D304700768D24 /* LzmaDec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = LzmaDec.c; path = "emu-ex-plus-alpha/GBA.emu/src/vbam/7z_C/LzmaDec.c"; sourceTree = SOURCE_ROOT; };
 		CCFA71F8179D304700768D24 /* Ppmd7.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Ppmd7.c; path = "emu-ex-plus-alpha/GBA.emu/src/vbam/7z_C/Ppmd7.c"; sourceTree = SOURCE_ROOT; };
 		CCFA71F9179D304700768D24 /* Ppmd7Dec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Ppmd7Dec.c; path = "emu-ex-plus-alpha/GBA.emu/src/vbam/7z_C/Ppmd7Dec.c"; sourceTree = SOURCE_ROOT; };
+		DFA9479B18AF9911000BBB9F /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file; name = "zh-Hans"; path = "zh-Hans.lproj/Others.strings"; sourceTree = "<group>"; };
+		DFA9479C18AF9921000BBB9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file; name = Base; path = Base.lproj/Others.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1235,6 +1238,7 @@
 		CC2D57061798F2EC00C616EB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DFA9479A18AF990C000BBB9F /* Others.strings */,
 				CC2D57071798F2EC00C616EB /* GBA4iOS-Info.plist */,
 				CC2D57081798F2EC00C616EB /* InfoPlist.strings */,
 				CC2D570B1798F2EC00C616EB /* main.mm */,
@@ -1708,6 +1712,7 @@
 				BFB89E3F18909EE8002E5F26 /* Default-Landscape@2x~ipad.png in Resources */,
 				CC96F01717C2A0AD00C7DD0C /* Images.xcassets in Resources */,
 				BF49397617CD947C0072CFC7 /* padButton.png in Resources */,
+				DFA9479818AF990C000BBB9F /* Others.strings in Resources */,
 				1A5BAE7F17D04B0A00BABC01 /* overlays128.png in Resources */,
 				CC5044E71814C474009F7B9E /* Default.gbcskin in Resources */,
 				BFB89E4718909EE8002E5F26 /* Default@2x.png in Resources */,
@@ -2138,6 +2143,15 @@
 				BF63401D18AA0B2F0011E54A /* zh-Hans */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DFA9479A18AF990C000BBB9F /* Others.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DFA9479B18AF9911000BBB9F /* zh-Hans */,
+				DFA9479C18AF9921000BBB9F /* Base */,
+			);
+			name = Others.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
