@@ -72,13 +72,13 @@
 "Ui4-u6-rdp.footerTitle" = "当读取其他存档、退出游戏、程序崩溃时自动存档。这个方法主要用于备份，不应作为主要的存档方法。";
 
 /* Class = "IBUITableViewSection"; headerTitle = "Saving"; ObjectID = "Ui4-u6-rdp"; */
-"Ui4-u6-rdp.headerTitle" = "保存中...";
+"Ui4-u6-rdp.headerTitle" = "存档";
 
 /* Class = "IBUILabel"; text = "Robert Broglia"; ObjectID = "XmL-5Z-36f"; */
 "XmL-5Z-36f.text" = "Robert Broglia";
 
 /* Class = "IBUITableViewSection"; headerTitle = "Syncing"; ObjectID = "Y91-iU-ZZA"; */
-"Y91-iU-ZZA.headerTitle" = "同步中...";
+"Y91-iU-ZZA.headerTitle" = "同步";
 
 /* Class = "IBUITableViewSection"; footerTitle = "Tap a name to go to their Twitter profile. \n\nFor all the latest GBA4iOS updates, follow Riley Testut and Paul Thorsen."; ObjectID = "Yil-Be-Dpf"; */
 "Yil-Be-Dpf.footerTitle" = "单击姓名以进入Twitter档案。 \n\n 请关注Riley Testut和Paul Thorsen来获得最新的GBA4iOS。";
